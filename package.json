@@ -1,0 +1,17 @@
+{
+  "name": "rick-and-morty",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "vite": "^5.4.8"
+  }
+}
